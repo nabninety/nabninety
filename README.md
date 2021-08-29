@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nabninety
+- 👀 I’m interested in helping people access the resources they need to thrive.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate with like-minded people.
+- 📫 Reach me on Github!
